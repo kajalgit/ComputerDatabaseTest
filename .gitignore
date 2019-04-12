@@ -1,0 +1,17 @@
+# Java Local workspace files #
+###################
+**/.*
+# except
+!.gitignore
+**/!.gitignore
+**/target
+**/.settings
+**/EnvironmentJars
+**/unpackedSources 
+**/unpackedMasterWebSources
+**/unpackedSecurityWebSources
+**/unpackedtldSources
+**/generatedSources
+**/.settings
+**/*.orig
+**/.idea
